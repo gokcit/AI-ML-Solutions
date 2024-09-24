@@ -1,4 +1,4 @@
-# AI-ML-Solutions
+# AI ML Solutions
 
 ## MCU
 
