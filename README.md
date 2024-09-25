@@ -4,7 +4,7 @@
 
 ## Gesture Detection
 ![Gesture Detection](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo/blob/main/assets/gestures-with-dashboard.gif)
-![Gesture Detection]https://github.com/gokcit/AI-ML-Solutions/blob/main/roboticarm.gif)
+![Gesture Detection](https://github.com/gokcit/AI-ML-Solutions/blob/main/roboticarm.gif)
 ## Predictive Maintenance
 ![Predictive Maintenance](https://github.com/MicrochipTech/ml-dsPIC33CK-Predictive-Maintenance-in-Motor-Control-Applications/blob/main/assets/PredictiveMaintananceDemo.gif)
 
