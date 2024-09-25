@@ -2,6 +2,12 @@
 
 ## MCU
 
+## Gesture Detection
+![Gesture Detection](https://github.com/MicrochipTech/ml-samd21-iot-mplabml-gestures-demo/blob/main/assets/gestures-with-dashboard.gif)
+
+## Predictive Maintenance
+![Predictive Maintenance](https://github.com/MicrochipTech/ml-dsPIC33CK-Predictive-Maintenance-in-Motor-Control-Applications/blob/main/assets/PredictiveMaintananceDemo.gif)
+
 ### Predictive Maintenance Fan Condition Monitoring
 ![Fan Condition Demo](https://github.com/MicrochipTech/ml-samd21-iot-sensiml-fan-condition-demo/blob/main/assets/fandemo.gif)
 ## MPU
