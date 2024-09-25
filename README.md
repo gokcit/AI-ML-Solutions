@@ -3,7 +3,7 @@
 ## MCU
 
 ### Predictive Maintenance Fan Condition Monitoring
-![Fan Condition Demo]https://github.com/MicrochipTech/ml-samd21-iot-sensiml-fan-condition-demo/blob/main/assets/fandemo.gif)
+![Fan Condition Demo](https://github.com/MicrochipTech/ml-samd21-iot-sensiml-fan-condition-demo/blob/main/assets/fandemo.gif)
 ## MPU
 
 ### Face Recognition
